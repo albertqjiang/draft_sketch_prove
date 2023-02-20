@@ -1,0 +1,1 @@
+{"tag": "mathd_numbertheory_466", "category": "number_theory", "metadata": {}, "prompt": "Informal:\n(*### Problem\n\nWhat is the remainder when $1 + 2 + 3 + 4 + \\dots + 9 + 10$ is divided by 9? Show that it is 1.\n\n### Solution\n\nThis is true by simple evaluation.*)\n\nFormal:\ntheorem\n  \"(\\<Sum> k< 11. k) mod 9 = (1::nat)\"\n  sledgehammer"}

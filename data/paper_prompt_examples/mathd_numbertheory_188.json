@@ -1,0 +1,1 @@
+{"tag": "mathd_numbertheory_188", "category": "number_theory", "metadata": {}, "prompt": "Informal:\n(*### Problem\n\nFind the greatest common factor of 180 and 168. Show that it is 12.\n\n### Solution\n\nThis is true by simple evaluation.*)\n\nFormal:\ntheorem\n  \"gcd 180 168 = (12::nat)\"\n  sledgehammer"}
