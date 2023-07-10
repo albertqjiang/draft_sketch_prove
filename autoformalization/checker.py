@@ -75,6 +75,7 @@ class Checker(object):
                 obs = '%s <hammer> %s' % (heuristic, obs)
                 return obs, reward, done, metadata, error
         # Try sledgehammer
+        step = step.replace("sledgehammer", "normalhammer")
         return self._run_step(step, i, tls_name, env)
 
     def check(self, formal):
