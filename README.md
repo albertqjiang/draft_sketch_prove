@@ -3,9 +3,12 @@ Authors: Sean Welleck, Albert Q. Jiang, Jin Peng Zhou
 
 Implementation for the ICLR 2023 (Oral) paper: [Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs](https://openreview.net/forum?id=SMa9EAovKMC).
 
+## Update 30 September
+Sean has put together a step-by-step tutorial to play with DSP: https://github.com/wellecks/ntptutorial/tree/main/partII_dsp. Check it out!
+
 ## Results
 In the results folder are the names of theorems that can be solved by
-- Hmmaer + heuristics
+- Hammer + heuristics
 - Human informal proofs x 100 autoformalizations
 - Minerva informal proofs x 100 autoformalizations
 - Minerva informal proofs x 200 autoformalizations.
